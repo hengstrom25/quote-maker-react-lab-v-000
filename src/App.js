@@ -10,7 +10,8 @@ class App extends Component {
           <h1>Quote Maker</h1>
         </div>
         <hr />
-          <Quote Form
+          <QuoteForm />
+          <Quotes />
       </div>
     );
   }
