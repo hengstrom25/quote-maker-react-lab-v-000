@@ -5,3 +5,5 @@ export const addQuote = quote => {
     quote
   }
 }
+
+export const removeQuote = 
