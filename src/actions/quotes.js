@@ -19,3 +19,5 @@ export const upvoteQuote = quoteID => {
     quoteId: quoteId
   }
 }
+
+export const 
