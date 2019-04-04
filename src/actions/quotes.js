@@ -13,4 +13,4 @@ export const removeQuote = quoteId => {
   }
 }
 
-export const
+export const upvoteQuote = 
