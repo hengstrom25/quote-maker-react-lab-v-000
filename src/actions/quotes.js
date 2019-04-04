@@ -13,4 +13,9 @@ export const removeQuote = quoteId => {
   }
 }
 
-export const upvoteQuote = 
+export const upvoteQuote = quoteID => {
+  return {
+    type: 'UPVOTE_QUOTE',
+    quoteID: quoteId
+  }
+}
